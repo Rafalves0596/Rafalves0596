@@ -1,7 +1,4 @@
 ## Opa! 
 
-
-* Começando na programação;
-* Tenho nem ideia do que to fazendo aqui;
-* AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH
+Começando na Programação
 
