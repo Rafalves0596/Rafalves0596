@@ -1,4 +1,4 @@
-##👋 Seja bem-vindo! Eu sou Rafael! 
+## 👋 Seja bem-vindo! Eu sou Rafael! 
 
 - 💻 Segundo semestre de Desenvolvimento de Software;
 - 🌱 Focado em construir uma base sólida em Programação;
